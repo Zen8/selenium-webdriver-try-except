@@ -66,7 +66,7 @@ You can add an except clause which could just have a [raise] call without any ar
 
 try:
     # Intentionally raise an exception.
-    raise Exception('I learn Python!')
+    raise Exception('Why is it happening again?')
 except:
     print("Entered in except.")
     # Re-raise the exception.
@@ -76,4 +76,4 @@ Output:
 Entered in except.
 Traceback (most recent call last):
   File "python", line 3, in <module>
-Exception: I learn Python!
+Exception: Why is it happening again?
