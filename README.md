@@ -1,12 +1,12 @@
 # selenium-webdriver-try-except
-Try Except clause for Selenium Webdriver in Python
+Try Except clause for Selenium Webdriver in Python.
 
 Using try-except is the most common and natural way of handling unexpected errors along with many more exception handling constructs.
 
 1. Arbitrary Exception
 
 try:
-    #your code
+    #your code <br>
 except Exception as ex:
     print(ex)
 
