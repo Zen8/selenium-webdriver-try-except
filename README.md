@@ -1,4 +1,4 @@
-# selenium-webdriver-try-except
+# Selenium Webdriver Try / Except
 Try Except clause for Selenium Webdriver in Python.
 
 Most Common Exception Errors
